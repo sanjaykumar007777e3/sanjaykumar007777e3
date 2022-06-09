@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
 
-<a href="#"><img width="100%" height="auto" src="" height="170px" style="border-radius:50px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/s7J9eW5.jpg" height="170px" style="border-radius:50px"/></a>
 
 
 <h2 style="margin-left:10%">Interested in: </h2>

@@ -1,9 +1,9 @@
 
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aravind</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mike</h1>
+<h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
 
-<a href="#"><img width="100%" height="auto" src="https://static.vecteezy.com/system/resources/previews/000/677/514/large_2x/man-with-laptop-studying-or-working-concept.jpg" height="170px" style="border-radius:50px"/></a>
+<a href="#"><img width="100%" height="auto" src="[https://static.vecteezy.com/system/resources/previews/000/677/514/large_2x/man-with-laptop-studying-or-working-concept.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwqWTKox0OuzO8TGd_PnlixKmkw4EPF0JON6DjFRom5J2uCDfjqzXicvmm4dn6kzNke_s&usqp=CAU)" height="170px" style="border-radius:50px"/></a>
 
 
 <h2 style="margin-left:10%">Interested in: </h2>

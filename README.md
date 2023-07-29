@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mike</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sanjay Kumar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
 

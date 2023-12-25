@@ -9,7 +9,7 @@
 <h2 style="margin-left:10%">Interested in: </h2>
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1f83e0&size=25&center=true&lines=Cyber+security+blue+team;Pentesting;CTF;;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1f83e0&size=25&center=true&lines=Cyber+security;Penetration+testing;CTF+challanges;;)](https://git.io/typing-svg)
 <div>
 
 ##  About Me

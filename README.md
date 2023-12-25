@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sanjay Kumar</h1>
-<h3 align="center">I'm a passionate Full Stack Developer.</h3>
+<h3 align="center">I'm a passionate cyber security.</h3>
 
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/s7J9eW5.jpg" height="170px" style="border-radius:50px"/></a>
@@ -9,7 +9,7 @@
 <h2 style="margin-left:10%">Interested in: </h2>
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1f83e0&size=25&center=true&lines=Web+Development;Vector+Illustration;Image+Editing;UI/UX+Design;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1f83e0&size=25&center=true&lines=Cyber+security+blue+team;Pentesting;CTF;;)](https://git.io/typing-svg)
 <div>
 
 ##  About Me
